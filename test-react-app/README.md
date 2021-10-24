@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+## MacBook air M1
+node版本15.9.0
+npm版本7.5.3
+某些版本的node似乎會有些問題
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
